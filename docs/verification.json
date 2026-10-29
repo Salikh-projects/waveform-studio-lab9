@@ -1,0 +1,142 @@
+{
+  "staticChecks": "PASS",
+  "errors": [],
+  "semanticTags": {
+    "html": 1,
+    "head": 1,
+    "meta": 3,
+    "title": 1,
+    "link": 2,
+    "script": 1,
+    "body": 1,
+    "a": 24,
+    "header": 8,
+    "img": 6,
+    "small": 12,
+    "button": 5,
+    "nav": 2,
+    "main": 1,
+    "section": 9,
+    "p": 41,
+    "span": 23,
+    "h1": 1,
+    "br": 10,
+    "figure": 1,
+    "figcaption": 1,
+    "ul": 4,
+    "li": 12,
+    "strong": 3,
+    "h2": 5,
+    "article": 8,
+    "h3": 8,
+    "dl": 1,
+    "dt": 4,
+    "dd": 4,
+    "audio": 2,
+    "form": 1,
+    "label": 8,
+    "select": 2,
+    "option": 9,
+    "input": 6,
+    "output": 1,
+    "noscript": 1,
+    "footer": 1,
+    "details": 1,
+    "summary": 1
+  },
+  "localReferencesChecked": 35,
+  "contrast": [
+    {
+      "theme": "Dark",
+      "pair": "Body / background",
+      "foreground": "#f4f5ef",
+      "background": "#101110",
+      "ratio": 17.26,
+      "AA": true
+    },
+    {
+      "theme": "Dark",
+      "pair": "Secondary / background",
+      "foreground": "#afb5ab",
+      "background": "#101110",
+      "ratio": 9.03,
+      "AA": true
+    },
+    {
+      "theme": "Dark",
+      "pair": "Secondary / card",
+      "foreground": "#afb5ab",
+      "background": "#191b19",
+      "ratio": 8.27,
+      "AA": true
+    },
+    {
+      "theme": "Dark",
+      "pair": "Accent / background",
+      "foreground": "#d5ff70",
+      "background": "#101110",
+      "ratio": 16.55,
+      "AA": true
+    },
+    {
+      "theme": "Dark",
+      "pair": "Button label",
+      "foreground": "#17200b",
+      "background": "#d5ff70",
+      "ratio": 14.72,
+      "AA": true
+    },
+    {
+      "theme": "Light",
+      "pair": "Body / background",
+      "foreground": "#171c14",
+      "background": "#f5f6ef",
+      "ratio": 15.92,
+      "AA": true
+    },
+    {
+      "theme": "Light",
+      "pair": "Secondary / background",
+      "foreground": "#515c4a",
+      "background": "#f5f6ef",
+      "ratio": 6.48,
+      "AA": true
+    },
+    {
+      "theme": "Light",
+      "pair": "Secondary / card",
+      "foreground": "#515c4a",
+      "background": "#ffffff",
+      "ratio": 7.05,
+      "AA": true
+    },
+    {
+      "theme": "Light",
+      "pair": "Accent / background",
+      "foreground": "#324c0c",
+      "background": "#f5f6ef",
+      "ratio": 8.88,
+      "AA": true
+    },
+    {
+      "theme": "Light",
+      "pair": "Button label",
+      "foreground": "#ffffff",
+      "background": "#324c0c",
+      "ratio": 9.66,
+      "AA": true
+    }
+  ],
+  "browserVerification": "NOT PERFORMED: Windows browser-control stopped because URL could not be reliably determined.",
+  "figmaCloudFile": "NOT CREATED",
+  "githubPages": "NOT DEPLOYED",
+  "responsiveReviewRequired": [
+    320,
+    360,
+    390,
+    480,
+    768,
+    1024,
+    1440
+  ]
+}
